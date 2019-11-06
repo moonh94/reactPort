@@ -1,0 +1,24 @@
+p {
+    font-size: 13.5px;
+}
+
+.card {
+    border: black;
+    border-width: 5px;
+}
+.projectPic {
+    transition: transform .5s;
+
+}
+
+.projectPic:hover {
+    transform: scale(1.2);
+}
+
+a {
+    font-size:13.5px;
+}
+
+a:hover {
+    font-size:15px;
+}

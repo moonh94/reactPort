@@ -1,0 +1,8 @@
+.icons {
+    transition: transform .5s;
+
+}
+
+.icons:hover {
+    transform: scale(1.5);
+}
