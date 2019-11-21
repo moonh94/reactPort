@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.86a7dbf3.chunk.css",
-    "main.js": "/portfolio/static/js/main.eeba9308.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.eeba9308.chunk.js.map",
-    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
-    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/portfolio/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.df63e456.chunk.js": "/portfolio/static/js/2.df63e456.chunk.js",
-    "static/js/2.df63e456.chunk.js.map": "/portfolio/static/js/2.df63e456.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.47dfd5bd740fdad6284b55eee860eea7.js": "/portfolio/precache-manifest.47dfd5bd740fdad6284b55eee860eea7.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/portfolio/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.86a7dbf3.chunk.css.map": "/portfolio/static/css/main.86a7dbf3.chunk.css.map",
-    "static/media/profPic.jpg": "/portfolio/static/media/profPic.c5b45583.jpg"
+    "main.css": "/reactPort/static/css/main.6723c9d5.chunk.css",
+    "main.js": "/reactPort/static/js/main.a6156138.chunk.js",
+    "main.js.map": "/reactPort/static/js/main.a6156138.chunk.js.map",
+    "runtime~main.js": "/reactPort/static/js/runtime~main.9f9f805d.js",
+    "runtime~main.js.map": "/reactPort/static/js/runtime~main.9f9f805d.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/reactPort/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.3e1b5ed0.chunk.js": "/reactPort/static/js/2.3e1b5ed0.chunk.js",
+    "static/js/2.3e1b5ed0.chunk.js.map": "/reactPort/static/js/2.3e1b5ed0.chunk.js.map",
+    "index.html": "/reactPort/index.html",
+    "precache-manifest.e83f3ff5910e7a842357b869ebeb6373.js": "/reactPort/precache-manifest.e83f3ff5910e7a842357b869ebeb6373.js",
+    "service-worker.js": "/reactPort/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/reactPort/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.6723c9d5.chunk.css.map": "/reactPort/static/css/main.6723c9d5.chunk.css.map",
+    "static/media/boxPic.png": "/reactPort/static/media/boxPic.ab6991c5.png",
+    "static/media/musPic.png": "/reactPort/static/media/musPic.177da527.png",
+    "static/media/profPic.jpg": "/reactPort/static/media/profPic.c5b45583.jpg",
+    "static/media/psyPic.png": "/reactPort/static/media/psyPic.261e5beb.png"
   }
 }
