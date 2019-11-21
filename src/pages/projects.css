@@ -7,7 +7,10 @@ p {
     border-width: 5px;
 }
 .projectPic {
-    transition: transform .5s;
+    transition: all .5s ease;
+    width: 200px;
+    height: 200;
+    object-fit: cover;
 
 }
 

@@ -18,13 +18,13 @@ class About extends React.Component {
                     <Col sm="2"></Col>
                     <Col sm="8">
                         <img src={profilePic}
-                            style={{ float: "left", width:"200px", height:"300px", paddingRight:"20px"}} />
+                            style={{ float: "left", width:"200px", height:"auto", paddingRight:"20px"}} />
                         <p>My name is Hanmi Moon and I am a front end web developer. I attended the University of Denver Full Stack Web Development program in February 2019 and graduated May 2019. </p>
-                        <p>I was born and raised in the beautiful and mountainous state, Colorado.
-                           I have a Bachelor of Science degree in Biology and was pursuing nursing when I realized I was following the wrong career path all this time.
-                           After quickly realizing that becoming a nurse wasn't the my calling, I began the search for a new career.
-                           It didn't take long until web development peaked my interest. The creative freedom that came with this title was refreshing and eyeopening.
-                           My friend introduced me to the full stack program and I instantly fell for web development and its entirety.</p>
+                        <p>I was born and raised in the beautiful and mountainous state of Colorado. 
+                            I have a Bachelor of Science degree in Biology and was pursuing nursing when I was first introduced to the world of web development.
+                            After spending all my life studying science, it was refreshing to have a means in which I could explore my creative freedom and to share my work through a very social and obtainable platform.
+                        </p>
+                        <p>I am skilled with React.js, CSS, Javascript, Jquery, and HTML5. I am familiar with backend technology such as, Node.js, MySQL, JSON, and Sequelize.  </p>
                     </Col>
                     <Col sm="2"></Col>
                 </Row>

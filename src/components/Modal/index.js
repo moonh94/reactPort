@@ -30,7 +30,7 @@ class ModalExample extends React.Component {
                       <div>
                         <b>Email:</b> hmmoon@hotmail.com
                         <br />
-                        <b>Phone:</b> 720-982-7130 
+                        <b>Phone:</b> 720-469-9952
                       </div>
                       </ModalBody>
                     <ModalFooter>

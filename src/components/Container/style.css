@@ -1,5 +1,6 @@
 .list {
     list-style-type: none;
+    padding: 0;
 }
 
 .link:link, .link:visited, .link:active, .link:focus {
@@ -11,5 +12,6 @@
 .link:hover {
     color: grey;
     font-size: 28px;
+    transition: all 0.4s ease;
     
 }
